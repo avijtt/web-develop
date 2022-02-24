@@ -1,0 +1,29 @@
+
+    
+
+body{
+    background-image: url(images/moon.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.content{
+    color: white;
+    background-color: steelblue;
+   text-align: center;
+   width: 200px;
+   float: center;
+   display: inline;
+   
+}
+.ccc{
+    color: tan;
+    background-color: slategrey;
+    display:inline-block;
+    text-decoration: springgreen;
+    text-align: center;
+    display: inline-block;
+    width: 200px;
+    display: inline;
+}
